@@ -1,1 +1,1 @@
-# pipeline_economico
+![Testes](https://github.com/m4th3u5-4c5/pipeline_economico/actions/workflows/ci.yml/badge.svg)
